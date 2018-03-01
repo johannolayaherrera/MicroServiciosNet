@@ -1,5 +1,19 @@
 # MicroServiciosNet
 
+
+Libro
+https://inspirit.net.in/books/placements/Cracking%20the%20Coding%20Interview.pdf
+------------------------------
+
+Prueba y lecciones en codility y pruebas	
+https://app.codility.com/programmers/challenges/
+https://blog.codility.com/2011/03/solutions-for-task-equi.html
+https://www.testdome.com/tests/c-sharp-net-online-test/67
+http://bigocheatsheet.com/
+
+
+
+
 https://blogs.msdn.microsoft.com/cesardelatorre/2017/05/10/free-ebookguide-on-net-microservices-architecture-for-containerized-net-applications/
 
 
